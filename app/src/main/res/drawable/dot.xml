@@ -1,0 +1,17 @@
+<!-- res/drawable/custom_drawable.xml -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Oval shape that covers the entire date cell -->
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="@color/happy" />
+            <!-- Set a larger size to cover the date cell -->
+            <size
+                android:width="72dp"
+                android:height="72dp"/>
+        </shape>
+    </item>
+    <!-- Overlay image (adjust size and other attributes as needed) -->
+    <item android:top="16dp" android:left="16dp" android:right="16dp" android:bottom="16dp">
+        <bitmap android:src="@drawable/ic_icon" android:gravity="center" />
+    </item>
+</layer-list>

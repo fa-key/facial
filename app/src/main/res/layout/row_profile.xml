@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cvNote"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    app:cardCornerRadius="5dp"
+    app:cardElevation="3dp"
+    app:cardBackgroundColor="#e6b400">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@color/white"
+        android:padding="20dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="My Profile"
+            android:textSize="30sp"
+            android:textColor="@color/black"
+            android:layout_gravity="center" />
+
+        <ImageView
+            android:id="@+id/uploadImage"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/ic_baseline_person_24" />
+
+        <TextView
+            android:id="@+id/uploadName"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_marginTop="20dp"
+            android:background="@color/filled"
+            android:gravity="start|center_vertical"
+            android:hint="Enter your name"
+            android:padding="16dp"
+            android:textColor="@color/black" />
+
+        <TextView
+            android:id="@+id/uploadProfession"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_marginTop="20dp"
+            android:background="@color/filled"
+            android:gravity="start|center_vertical"
+            android:hint="Enter your profession"
+            android:padding="16dp"
+            android:textColor="@color/black" />
+
+        <TextView
+            android:id="@+id/uploadAge"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_marginTop="20dp"
+            android:background="@color/filled"
+            android:gravity="start|center_vertical"
+            android:hint="Enter your Age"
+            android:padding="16dp"
+            android:textColor="@color/black" />
+
+        <TextView
+            android:id="@+id/emotion"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_marginTop="20dp"
+            android:background="@color/filled"
+            android:gravity="start|center_vertical"
+            android:hint="Your Dominant Emotion"
+            android:padding="16dp"
+            android:textColor="@color/black" />
+
+        <Button
+            android:id="@+id/saveButton"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_marginTop="20dp"
+            android:backgroundTint="@color/filled"
+            android:text="Saved"
+            android:textSize="18sp"
+            />
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

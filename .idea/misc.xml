@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP/AndroidStudioProjects/facial/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1095" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/facial/app/src/main/res/drawable/angry.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/facial/app/src/main/res/drawable/dot.xml" value="0.126" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/facial/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.1095" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/facial/app/src/main/res/drawable/ic_baseline_photo_camera_24.xml" value="0.102" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/facial/app/src/main/res/drawable/ic_inhale_background.xml" value="0.1385" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/facial/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1095" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/facial/app/src/main/res/drawable/sad.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/facial/app/src/main/res/drawable/sample_three_icons.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/facial/app/src/main/res/layout/activity_article.xml" value="0.22" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/facial/app/src/main/res/layout/activity_breath.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/facial/app/src/main/res/layout/activity_calendar.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/facial/app/src/main/res/layout/activity_chart.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/facial/app/src/main/res/layout/activity_editor.xml" value="0.21518987341772153" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/facial/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/facial/app/src/main/res/layout/activity_navbar.xml" value="0.2109704641350211" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/facial/app/src/main/res/layout/activity_predict.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/facial/app/src/main/res/layout/activity_second.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/facial/app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/facial/app/src/main/res/layout/activity_view.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/facial/app/src/main/res/layout/adapter_article.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/facial/app/src/main/res/layout/article_view.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/facial/app/src/main/res/layout/dot.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/facial/app/src/main/res/layout/fragment_article.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/facial/app/src/main/res/layout/fragment_breath.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/facial/app/src/main/res/layout/fragment_calendar.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/facial/app/src/main/res/layout/fragment_dejour.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/facial/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/facial/app/src/main/res/layout/fragment_setting.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/facial/app/src/main/res/layout/list_item_note.xml" value="0.6423841059602649" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/facial/app/src/main/res/layout/row_profile.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/facial/app/src/main/res/layout/row_user.xml" value="0.565587734241908" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/facial/app/src/main/res/layout/toolbar.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/facial/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/facial/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/facial/app/src/main/res/menu/menu_main.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/facial/app/src/main/res/menu/menu_select.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/facial/app/src/main/res/menu/toolbar.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/facial/app/src/main/res/mipmap-anydpi-v26/ic_exhale.xml" value="0.187" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/facial/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/facial/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/facial/app/src/main/res/xml/network_security_config.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

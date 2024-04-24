@@ -1,0 +1,1 @@
+C:\Users\HP\AndroidStudioProjects\facial\opencv\build\intermediates\cxx\Debug\1p672916\obj\arm64-v8a
