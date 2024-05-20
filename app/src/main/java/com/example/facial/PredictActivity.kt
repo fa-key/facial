@@ -27,7 +27,6 @@ class PredictActivity : AppCompatActivity() {
 
     lateinit var viewfinder: CameraView
     lateinit var faceBoundsOverlay: FaceBoundsOverlay
-    lateinit var toggleCameraButton: FloatingActionButton
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -35,7 +34,6 @@ class PredictActivity : AppCompatActivity() {
 
         viewfinder = findViewById(R.id.viewfinder)
         faceBoundsOverlay = findViewById(R.id.faceBoundsOverlay)
-        toggleCameraButton = findViewById(R.id.toggleCameraButton)
 
 
         val lensFacing =
@@ -103,9 +101,7 @@ class PredictActivity : AppCompatActivity() {
             )
         }
 
-        toggleCameraButton.setOnClickListener {
-            viewfinder.toggleFacing()
-        }
+
     }
 
     private fun FaceDetector.setup() = run {

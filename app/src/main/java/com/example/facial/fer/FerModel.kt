@@ -7,7 +7,7 @@ import java.nio.ByteBuffer
 import java.nio.ByteOrder
 import kotlin.math.exp
 
-private const val MODEL_FILE_NAME = "fer_model.tflite"
+private const val MODEL_FILE_NAME = "fer_rms.tflite"
 private const val LABELS_FILE_NAME = "fer_model.names"
 
 private const val INPUT_IMAGE_WIDTH = 150
